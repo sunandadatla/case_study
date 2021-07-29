@@ -1,1 +1,1 @@
-# case_study The following is the raw zip files containing RAW DATA 
+# case_study The following is a case study on bike rides
